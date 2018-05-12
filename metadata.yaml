@@ -1,10 +1,16 @@
 _repo: The-Action-of-Medicines-in-the-System-Or-on-the-mode-in-which-therapeutic-agents-introduced-i__46745
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46745-h/images/cover.jpg
 creator:
   author:
     agent_name: Headland, Frederick William
     gutenberg_agent_id: '43930'
     url: http://www.gutenberg.org/2009/agents/43930
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46745#The-Action-of-Medicines-in-the-System-Or-on-the-mode-in-which-therapeutic-agents-introduced-i_
 gutenberg_issued: '2014-09-01'
 gutenberg_type: Text
 identifiers:
